@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Tela de cadastro</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='cadastro.css'>
+    <script src='cadastro.js'></script>
+    
+    <style>
+       
+        form{
+            box-shadow: 4px 5px 6px rgb(44, 44, 44);
+        }
+            </style>
+</head>
+<body>
+    <div class="container col-4">
+        <form class="form-control">
+                <h1>Cadastro</h1>
+                <input type="email" id="cadastroEmail" placeholder="Email:" class="form-control" required />
+                <br>
+                <input type="text" id="cadastroTelefone" placeholder="Telefone:" class="form-control" required />
+                <br>
+                <input type="text and number" id="cadastroNascimento" placeholder="Data de Nascimento:" class="form-control" required />
+                <br>
+                <input type="text and number" id="cadastroCpf" placeholder="CPF:" class="form-control" required />
+                <br>
+                <input type="text and number" id="cadastroCep" placeholder="CEP:" class="form-control" required />
+                <br>
+                <input type="text and number" id="cadastroRua" placeholder="Rua e número: " class="form-control" required />
+                <br>
+                <input type="text" id="cadastroBairro" placeholder="Bairro:" class="form-control" required />
+                <br>
+                <input type="password" id="cadastroSenha" placeholder="Digite sua senha:" class="form-control" required />
+                <br>
+                <input type="password" id="cadastroSenha" placeholder="confirme sua senha:" class="form-control" required />
+                <p>       
+               <button onclick=" Verificar() " class="btn btn-warning">ACESSAR</button>
+        </form>
+    </div>
+</body>
+</html>
