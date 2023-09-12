@@ -52,7 +52,7 @@ Este projeto consiste em uma tela de cadstro, na qual se solicita:
  
 ## 🔎 Fontes consultadas
 
-Leonardo Rocha
+* [Alura](https://www.alura.com.br/artigos/escrever-bom-readme) - Como escrever um README incrível
 
 ## 🙎🏽 Autores
 
