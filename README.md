@@ -15,14 +15,14 @@
 
 ## 📝 Descrição
 Este projeto consiste em uma tela de cadstro, na qual se solicita:
--Email
--Telefone
--Data de nascimento
--CPF
--CEP
--Rua e número 
--Bairro
--Senha
+*  Email
+* elefone
+* Data de nascimento
+* CPF
+* CEP
+* Rua e número 
+* Bairro
+* Senha
 ## ⚙️ Funcionalidades
 
 1-Formulário de preenchimento
@@ -53,6 +53,7 @@ Este projeto consiste em uma tela de cadstro, na qual se solicita:
 ## 🔎 Fontes consultadas
 
 * [Alura](https://www.alura.com.br/artigos/escrever-bom-readme) - Como escrever um README incrível
+* [lohhans](https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89) - Como escrever um README incrível
 
 ## 🙎🏽 Autores
 
