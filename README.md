@@ -56,5 +56,5 @@ Leonardo Rocha
 
 ## 🙎🏽 Autores
 
-Ruan Pablo, 
+Ruan Pablo Do Prado Ribeiro
 
