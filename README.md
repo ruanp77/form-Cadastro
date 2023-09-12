@@ -2,7 +2,7 @@
 
 # 🚀 Projeto - Cadastro para a escrita do README
 
-![image](./Imagem%20de%20tela/Tela%20de%20cadastro.png/)
+![image](imagem/Tela de cadastro.png/)
 
 ## 📝 Descrição
 Este projeto consiste em uma tela de cadstro, na qual se solicita:
