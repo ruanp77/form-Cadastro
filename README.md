@@ -23,19 +23,14 @@ Este projeto consiste em uma tela de cadstro, na qual se solicita:
 * Rua e número 
 * Bairro
 * Senha
-## ⚙️ Funcionalidades
+# :hammer:⚙️ Funcionalidades do projeto
 
-1-Formulário de preenchimento
-
-2-Validação de dados
-
-3-Confirmação de senha
-
-4-Política de privacidade e termos de uso
-
-5-Botão de envio ou registro
-
-6-Mensagens de erro
+- `1-Formulário de preenchimento`: descrição da funcionalidade 1
+- `2-Validação de dados`: descrição da funcionalidade 2
+- `3-Confirmação de senha`: descrição da funcionalidade 2a relacionada à funcionalidade 2
+- `4-Política de privacidade e termos de uso`: descrição da funcionalidade 3
+- `5-Botão de envio ou registro`: descrição da funcionalidade 3
+- `6-Mensagens de erro`: descrição da funcionalidade 3
 
 ### 💻 Tecnologias utilizadas
 
