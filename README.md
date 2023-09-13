@@ -14,9 +14,9 @@
 ![image](img/tela%20cadastro.png)
 
 ## 📝 Descrição
-Este projeto consiste em uma tela de cadstro, na qual se solicita:
-*  Email
-* elefone
+Este projeto consiste em uma tela de cadastro, na qual se solicita:
+* Email
+* Telefone
 * Data de nascimento
 * CPF
 * CEP
