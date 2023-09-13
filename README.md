@@ -52,5 +52,5 @@ Este projeto consiste em uma tela de cadstro, na qual se solicita:
 
 ## 🙎🏽 Autores
 
-Ruan Pablo Do Prado Ribeiro
+**Ruan Pablo Do Prado Ribeiro**
 
