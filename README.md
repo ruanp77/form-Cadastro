@@ -4,7 +4,7 @@
 
  
 
-[Projeto - Portifólio para a escrita do README](#projeto---portif%C3%B3lio-para-a-escrita-do-readme)  
+[Projeto - Formulário de cadastro de e e-commerce como americanas e magazine Luiza](#projeto---portif%C3%B3lio-para-a-escrita-do-readme)  
 [Descrição](#descri%C3%A7%C3%A3o)  
 [Funcionalidades](#funcionalidades)  
 [Tecnologias utilizadas](#tecnologias-utilizadas)  
